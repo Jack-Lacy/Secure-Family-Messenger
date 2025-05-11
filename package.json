@@ -1,0 +1,23 @@
+{
+  "name": "secure-family-messenger",
+  "version": "1.0.0",
+  "description": "An application made for secure and private messaging. All data will be stored on the host's computer, eliminating the risk of companies stealing your data.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jack-Lacy/Secure-Family-Messenger.git"
+  },
+  "author": "Jack Lacy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jack-Lacy/Secure-Family-Messenger/issues"
+  },
+  "homepage": "https://github.com/Jack-Lacy/Secure-Family-Messenger#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
